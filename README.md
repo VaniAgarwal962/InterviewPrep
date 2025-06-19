@@ -9,3 +9,5 @@
 [LEETCODE](https://github.com/VaniAgarwal962/InterviewPrep/blob/main/Leetcode)
 
 [VIDEO RESOURCES](https://github.com/VaniAgarwal962/InterviewPrep/blob/main/Video%20Resources)
+
+[SYSTEM DESIGN](https://github.com/VaniAgarwal962/InterviewPrep/blob/main/System%20design)
