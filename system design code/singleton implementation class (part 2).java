@@ -1,18 +1,20 @@
-```private constructor + static method == Singleton Class
+```
+private constructor + static method == Singleton Class
 ```
 
+
 package com.assignment.question;
-
 import java.util.Optional;
-
 public class FileBasedConfigurationManagerImpl extends FileBasedConfigurationManager {
 
    // private static volatile FileBasedConfigurationManagerImpl instance = null;
      private static FileBasedConfigurationManagerImpl instance = null;  // static variable due to static method
 
+     
     private FileBasedConfigurationManagerImpl() {  // private constructor
         // super();
     }
+
 
     public static FileBasedConfigurationManager getInstance() {  // static method
         if (instance == null) {
