@@ -1,6 +1,6 @@
-```
-private constructor + static method == Singleton Class
-```
+
+private constructor of the class + static method in the class  = Singleton Class (Singleton Design Pattern)
+
 
 
 package com.assignment.question;
