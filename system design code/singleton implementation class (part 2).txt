@@ -4,10 +4,11 @@ import java.util.Optional;
 
 public class FileBasedConfigurationManagerImpl extends FileBasedConfigurationManager {
 
-    private static volatile FileBasedConfigurationManagerImpl instance = null;
+   // private static volatile FileBasedConfigurationManagerImpl instance = null;
+     private static  FileBasedConfigurationManagerImpl instance = null;
 
     private FileBasedConfigurationManagerImpl() {
-        super();
+        // super();
     }
 
 
