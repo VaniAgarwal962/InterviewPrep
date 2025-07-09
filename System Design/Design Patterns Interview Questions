@@ -1,0 +1,66 @@
+"Design pattern interview questions at visa , salesforce and atlassian for senior software developer role with 4 years of experience"
+
+🎯 Company-Specific Focus
+    1. Visa
+    Focus: Enterprise-scale systems, payment pipelines, service composition.
+
+            Sample Questions:
+            When would you use a Factory vs. a Builder pattern in a microservices environment?
+            
+            Explain Singleton. How would you make it thread-safe in Java?
+            
+            How can Strategy Pattern improve extensibility in a payment gateway system?
+            
+            How do you design a logging mechanism using the Observer pattern?
+            
+            Implement a Rate Limiter. What pattern would you use to keep it extensible?
+            
+            How would you apply the Proxy pattern in authentication or logging use cases?
+
+    2. Salesforce
+    Focus: Multi-tenant architecture, scalability, plugin-style development.
+
+            Sample Questions:
+            Describe how you would use Decorator pattern to add features to CRM modules.
+            
+            Which design pattern best fits a rule-based engine or workflow engine?
+            
+            Implement a plugin architecture using Abstract Factory.
+            
+            Explain Dependency Injection and how it relates to design patterns.
+            
+            Have you used Template Method or Strategy in any framework (Spring, Hibernate)?
+            
+            How would you ensure extensibility and maintainability of a business rules engine?
+
+    3. Atlassian
+    Focus: Modular apps (Jira, Confluence), APIs, plugin architecture.
+            
+            Sample Questions:
+            Design a feature flag system. Which design pattern would you use and why?
+            
+            How would you use the Command pattern for undo-redo functionality in a document editor?
+            
+            Explain the difference between State and Strategy pattern with a real-world example.
+            
+            How would you design a notification system using Observer pattern?
+            
+            How can Adapter and Facade patterns help in integrating legacy systems or plugins?
+            
+            What patterns can be used to reduce tight coupling in a monolith-turned-microservices system?
+
+
+
+🔧 Scenario-Based Pattern Questions (Common Across Companies)
+            Design a caching layer for a web application. Which pattern(s) will you use?
+            Build an extensible reporting module that supports PDF, CSV, Excel. How do you architect it?
+            How would you design a task scheduler system? Which patterns would you apply?
+            In your microservices experience, how did you use design patterns to reduce duplication?
+
+
+
+🧠 Tips to Prepare:
+            Know intent, structure, and real-world use of each pattern.
+            Be ready to draw UML or class diagrams quickly.
+            Practice explaining trade-offs — e.g., when to choose Strategy over if-else blocks.
+            Know how Spring, Hibernate, or any framework you use internally applies patterns.
