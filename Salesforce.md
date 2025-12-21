@@ -1,6 +1,7 @@
   
 ## 21-12-2025
 - https://leetcode.com/problems/contains-duplicate/submissions/1861420916/
+- https://leetcode.com/problems/valid-anagram/submissions/1861500241/
   
 ## 20-12-2025
 - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
