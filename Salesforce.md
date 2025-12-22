@@ -1,6 +1,7 @@
 ## 22-12-2025
 -	https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
--	
+-	https://leetcode.com/problems/delete-and-earn/description/
+
 ## 21-12-2025
 - https://leetcode.com/problems/contains-duplicate/submissions/1861420916/
 - https://leetcode.com/problems/valid-anagram/submissions/1861500241/
