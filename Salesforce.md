@@ -1,6 +1,7 @@
 ## 22-12-2025
 -	https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
 -	https://leetcode.com/problems/delete-and-earn/description/
+-	https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ## 21-12-2025
 - https://leetcode.com/problems/contains-duplicate/submissions/1861420916/
