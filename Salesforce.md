@@ -1,3 +1,11 @@
+## 25-12-2025
+- 
+
+## 24-12-2025
+- NO SHOW
+## 23-12-2025
+- NO SHOW
+  
 ## 22-12-2025
 -	https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
 -	https://leetcode.com/problems/delete-and-earn/description/
