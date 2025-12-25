@@ -1,5 +1,5 @@
 ## 25-12-2025
-- 
+- https://leetcode.com/problems/number-of-operations-to-make-network-connected/submissions/1865263907/
 
 ## 24-12-2025
 - NO SHOW
