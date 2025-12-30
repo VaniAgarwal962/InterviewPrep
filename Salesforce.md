@@ -1,6 +1,9 @@
+## 30-12-2025
+
 ## 29-12-2025
 - https://leetcode.com/problems/remove-adjacent-almost-equal-characters/solutions/4382595/explained-greedy-single-pass-very-simple-xwuv/
 - https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+- https://leetcode.com/problems/group-anagrams/
 
 ## 28-12-2025
 -https://leetcode.com/problems/longest-happy-prefix/
