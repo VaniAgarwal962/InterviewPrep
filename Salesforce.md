@@ -1,4 +1,5 @@
 ## 30-12-2025
+- https://leetcode.com/problems/product-of-array-except-self/submissions/1869629821/
 
 ## 29-12-2025
 - https://leetcode.com/problems/remove-adjacent-almost-equal-characters/solutions/4382595/explained-greedy-single-pass-very-simple-xwuv/
