@@ -1,3 +1,9 @@
+## 01-01-2026
+
+### 2026
+
+## 31-12-2025
+- NO SHOW
 ## 30-12-2025
 - https://leetcode.com/problems/product-of-array-except-self/submissions/1869629821/
 
