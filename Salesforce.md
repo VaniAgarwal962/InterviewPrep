@@ -1,5 +1,6 @@
 ## 02-01-2026
 - https://leetcode.com/problems/string-compression/submissions/1872337108/
+- https://leetcode.com/problems/string-compression
 
 ## 01-01-2026
 - https://leetcode.com/problems/3sum/
