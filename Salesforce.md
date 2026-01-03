@@ -4,6 +4,7 @@
 - https://leetcode.com/problems/longest-common-subsequence/description/
 - https://leetcode.com/problems/report-spam-message/submissions/1873267172/
 - https://leetcode.com/problems/missing-number/submissions/1873272561/
+- https://leetcode.com/problems/valid-parentheses/submissions/1873305892/
 - 
 ## 02-01-2026
 - https://leetcode.com/problems/string-compression/submissions/1872337108/
