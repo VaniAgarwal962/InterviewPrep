@@ -1,3 +1,6 @@
+## 03-01-2026
+- https://leetcode.com/problems/lru-cache/
+
 ## 02-01-2026
 - https://leetcode.com/problems/string-compression/submissions/1872337108/
 - https://leetcode.com/problems/string-compression
