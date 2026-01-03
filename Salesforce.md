@@ -2,6 +2,7 @@
 - https://leetcode.com/problems/lru-cache/
 - https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
 - https://leetcode.com/problems/longest-common-subsequence/description/
+- https://leetcode.com/problems/report-spam-message/submissions/1873267172/
 - 
 ## 02-01-2026
 - https://leetcode.com/problems/string-compression/submissions/1872337108/
