@@ -1,5 +1,5 @@
 ## 04-01-2026
--Designing Tic Tac Toe
+- Designing Tic Tac Toe
 
 ## 03-01-2026
 - https://leetcode.com/problems/lru-cache/
