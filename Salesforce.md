@@ -1,3 +1,6 @@
+## 04-01-2026
+-Designing Tic Tac Toe
+
 ## 03-01-2026
 - https://leetcode.com/problems/lru-cache/
 - https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0
