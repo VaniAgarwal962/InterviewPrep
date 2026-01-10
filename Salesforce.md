@@ -1,3 +1,9 @@
+## 10-01-2026
+- NO SHOW
+  
+## 09-01-2026
+- NO SHOW
+  
 ## 08-01-2026
 - https://leetcode.com/problems/merge-two-sorted-lists/submissions/1878229945/
 - https://leetcode.com/problems/merge-k-sorted-lists/submissions/1878291123/
