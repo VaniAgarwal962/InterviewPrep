@@ -1,6 +1,6 @@
-https://docs.google.com/spreadsheets/d/1VLqVkENI0ZT7bLN31rgnjLklyTrPvtp9/edit?gid=677271289#gid=677271289
-https://www.youtube.com/watch?v=X-2OUqnUH6U
-https://www.youtube.com/watch?v=es7ONDSiqis
+- https://docs.google.com/spreadsheets/d/1VLqVkENI0ZT7bLN31rgnjLklyTrPvtp9/edit?gid=677271289#gid=677271289
+- https://www.youtube.com/watch?v=X-2OUqnUH6U
+- https://www.youtube.com/watch?v=es7ONDSiqis
 
 ## 15-01-2026
 - NO SHOW
