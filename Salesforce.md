@@ -2,6 +2,7 @@
 - https://www.youtube.com/watch?v=T0u5nwSA0w0&t=847s
 - https://www.youtube.com/watch?v=X-2OUqnUH6U
 - https://www.youtube.com/watch?v=es7ONDSiqis
+- https://github.com/VaniAgarwal962/InterviewPrep/blob/main/Learning%20Content%20Videos,%20Theory
 
 ## 15-01-2026
 - NO SHOW
