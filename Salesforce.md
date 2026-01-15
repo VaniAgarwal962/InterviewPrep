@@ -4,6 +4,8 @@
 - https://www.youtube.com/watch?v=es7ONDSiqis
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/Learning%20Content%20Videos,%20Theory
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/DailyTask.csv
+- https://github.com/VaniAgarwal962/2025-leetcode-companywise-interview-questions/blob/master/salesforce/six-months.csv
+- https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
 
 ## 15-01-2026
 - NO SHOW
