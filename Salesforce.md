@@ -3,6 +3,7 @@
 - https://www.youtube.com/watch?v=X-2OUqnUH6U
 - https://www.youtube.com/watch?v=es7ONDSiqis
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/Learning%20Content%20Videos,%20Theory
+- https://github.com/VaniAgarwal962/InterviewPrep/blob/main/DailyTask.csv
 
 ## 15-01-2026
 - NO SHOW
