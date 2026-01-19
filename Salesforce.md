@@ -6,6 +6,12 @@
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/DailyTask.csv
 - https://github.com/VaniAgarwal962/2025-leetcode-companywise-interview-questions/blob/master/salesforce/six-months.csv
 - https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
+## 19-01-2026
+- Test
+- https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+  
+## 18-01-2026
+- Test
   
 ## 17-01-2026
 - Test
