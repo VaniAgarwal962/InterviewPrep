@@ -6,6 +6,10 @@
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/DailyTask.csv
 - https://github.com/VaniAgarwal962/2025-leetcode-companywise-interview-questions/blob/master/salesforce/six-months.csv
 - https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
+
+## 22-01-2026
+- https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1
+  
 ## 21-01-2026
 - https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1
 
