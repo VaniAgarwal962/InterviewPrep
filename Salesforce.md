@@ -6,8 +6,10 @@
 - https://github.com/VaniAgarwal962/InterviewPrep/blob/main/DailyTask.csv
 - https://github.com/VaniAgarwal962/2025-leetcode-companywise-interview-questions/blob/master/salesforce/six-months.csv
 - https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
+  
 ## 24-01-2026
-
+- https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24
+- https://www.geeksforgeeks.org/problems/josephus-problem/1
 ## 23-01-2026  
 - https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1
 ## 22-01-2026
