@@ -8,6 +8,18 @@
 - https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
 
   
+## 31-01-2026
+-GFG, Leetcode daily
+  
+## 30-01-2026
+-GFG, Leetcode daily
+  
+## 29-01-2026
+-GFG, Leetcode daily
+  
+## 28-01-2026
+-GFG, Leetcode daily
+
 ## 27-01-2026
 -GFG, Leetcode daily
 
