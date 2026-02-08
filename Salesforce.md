@@ -7,6 +7,29 @@
 - https://github.com/VaniAgarwal962/2025-leetcode-companywise-interview-questions/blob/master/salesforce/six-months.csv
 - https://github.com/VaniAgarwal962/2026-leetcode-company-wise-problems/blob/main/Salesforce/3.%20Six%20Months.csv
 
+## 08-02-2026
+-GFG, Leetcode daily
+  
+## 07-02-2026
+-GFG, Leetcode daily
+  
+## 06-02-2026
+-GFG, Leetcode daily
+  
+## 05-02-2026
+-GFG, Leetcode daily
+
+## 04-02-2026
+-GFG, Leetcode daily
+  
+## 03-02-2026
+-GFG, Leetcode daily
+  
+## 02-02-2026
+-GFG, Leetcode daily
+  
+## 01-02-2026
+-GFG, Leetcode daily
   
 ## 31-01-2026
 -GFG, Leetcode daily
