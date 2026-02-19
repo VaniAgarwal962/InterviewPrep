@@ -1,0 +1,1 @@
+https://blog.algomaster.io/p/30-system-design-concepts
